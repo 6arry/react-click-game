@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Goku",
+        "image": "./images/goku.png",
+        "value": 750
+    },
+    {
+        "id": 2,
+        "name": "Gohan",
+        "image": "./images/gohan.png",
+        "value": 750
+    },
+    {
+        "id": 3,
+        "name": "Vegeta",
+        "image": "./images/vegeta.png",
+        "value": 750
+    },
+    {
+        "id": 4,
+        "name": "Trunks",
+        "image": "./images/trunks.png",
+        "value": 750
+    },
+    {
+        "id": 5,
+        "name": "Goten",
+        "image": "./images/goten.png",
+        "value": 750
+    },
+    {
+        "id": 6,
+        "name": "Bulma",
+        "image": "./images/bulma.png",
+        "value": 750
+    },
+    {
+        "id": 7,
+        "name": "Piccolo",
+        "image": "./images/piccolo.png",
+        "value": 750
+    },
+    {
+        "id": 8,
+        "name": "Tien",
+        "image": "./images/tien.png",
+        "value": 750
+    },
+    {
+        "id": 9,
+        "name": "Krillim",
+        "image": "./images/krillin.png",
+        "value": 750
+    },
+    {
+        "id": 10,
+        "name": "Andriod 18",
+        "image": "./images/andriod18.png",
+        "value": 750
+    },
+    {
+        "id": 11,
+        "name": "Jaren",
+        "image": "./images/jaren.png",
+        "value": 750
+    },
+    {
+        "id": 12,
+        "name": "Hit",
+        "image": "./images/hit.png",
+        "value": 750
+    }
+]
