@@ -1,4 +1,5 @@
 import React from "react";
+import Power from "./Power.js"
 import "./navbar.css";
 
 function Navbar(){
